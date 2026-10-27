@@ -95,6 +95,15 @@ ventas_mensuales.png: evolución de los ingresos mensuales.
 
 Estas gráficas se generan a partir de los resultados exportados mediante Apache Spark.
 
+### Productos más vendidos
+![Productos más vendidos](graficas/productos_mas_vendidos.png)
+
+### Ingresos por país
+![Ingresos por país](graficas/ingresos_por_pais.png)
+
+### Evolución mensual de las ventas
+![Ventas mensuales](graficas/ventas_mensuales.png)
+
 7. Instrucciones de ejecución
 
 Requisitos
